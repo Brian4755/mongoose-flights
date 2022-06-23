@@ -6,3 +6,16 @@
 span {
   color: #3e7ac4
 }
+
+table {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+table td {
+  min-width: 250px;
+}
+
+thead {
+  border-bottom: 2px solid gray;
+}
